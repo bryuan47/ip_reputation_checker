@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "a629f69981deb50dbfbadd68fded4fe8bba59b1cf5bc71218d5579d923f144d95ce74d6c87b29731"
+API_KEY = "YOUR_API_KEY"
 ip = input ("Enter a suspected IP address: ")
 
 url = "https://api.abuseipdb.com/api/v2/check"
